@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @waelse7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Js HTML Css Python flask
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-  Hi, I’m @waelse7
+-  I’m currently learning Java, Js, Ts, Python, and Golang
+
 
 <!---
 waelse7/waelse7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
